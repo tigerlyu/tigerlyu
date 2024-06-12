@@ -1,5 +1,7 @@
 ## Hi, I’m @tigerlyu，See you again! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
+## 🔭 Focus
+
 * 应用架构设计、DDD
 * Java应用调优、JVM机制研究
 * 常用中间件技术探索
