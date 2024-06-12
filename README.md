@@ -1,4 +1,4 @@
-## Hi, I’m @tigerlyu，See you again! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi, I’m tigerlyu，welcome! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ## 🔭 Focus
 
